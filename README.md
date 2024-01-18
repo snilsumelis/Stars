@@ -7,7 +7,7 @@ This Java program generates a diamond pattern of stars based on user input. It p
 ## Usage
 
 1. **Clone the repository:**
-   - `git clone https://github.com/your-username/java-diamond-pattern.git`
+   - `git clone https://github.com/snilsumelis/Starst`
 
 2. **Navigate to the project directory:**
    - `cd java-diamond-pattern`
